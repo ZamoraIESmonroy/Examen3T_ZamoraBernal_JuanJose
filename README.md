@@ -1,1 +1,2 @@
 # Examen3T_ZamoraBernal_JuanJose
+En cuanto a la clase Consulta, me decidí por crear un atributo de tipo Enum para el tipo de Consulta. También cabía la posibilidad de declarar Consulta como clase abstracta y que General, Vacunación y Cirugía fueran clases que la herederan. Basándome en el enunciado, decidí que es más apropiado un Enum porque el tipo de consulta no indicaba ninguna diferencia específica en el enunciado en cuanto a atributos o métodos.
